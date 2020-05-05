@@ -1,0 +1,2 @@
+#cmakedefine HAVE_WINDOWS_HEADERS 1
+#cmakedefine HAVE_PTHREAD 1
